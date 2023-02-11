@@ -1,0 +1,13 @@
+*logonbd.dll
+*logonbdext.dll
+*resource.db
+*YunDb.dll
+*YunSub.dll
+*default.db
+*duiengineskin.zip
+*Thumbs.db
+*Thumbs.db:encryptable
+Platform/Win/*/Files/skin/default/MainFrame/LoginDlg/*.*
+Platform/Win/*/Files/skin/default/MainFrame/UserGuideDlg/*.*
+.directory
+.vscode/settings.json

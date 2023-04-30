@@ -22,11 +22,12 @@
 
 | Платформа | Установка                          |Версия  | Скачать                    |
 | --------- | ---------------------------------- |--------| -------------------------- |
-| Windows   | [Замена файлов][win-replace]       |7.14.2.9|  [git][win_replace_files_git] |
-| Windows   | [Установка репака][win-repack]    | 7.14.2.9| [mediafire][win_repack_files_mfire] |
-| Windows   | [Портативная версия][win-portable] |7.14.2.9|  [mediafire][win_portable_files_mfire] |
-| Android   | Установить                         |11.21.3 |  [mediafire][win_apk_files_mfire]  |
+| Windows   | [Замена файлов][win-replace]       |7.27.0.05|  [git][win_replace_files_git] |
+| Windows   | [Установка репака][win-repack]    | 7.27.0.05| [mediafire][win_repack_files_mfire] |
+| Windows   | [Портативная версия][win-portable] |7.27.0.05|  [mediafire][win_portable_files_mfire] |
+| Android   | Установить                         |11.45.2 |  [mediafire][win_apk_files_mfire]  |
 
+| Android  | Install                          |11.45.2 | 
 ## Замена файлов
 
 Для тех кто хочет перевести уже установленный оффициальный клиент.
